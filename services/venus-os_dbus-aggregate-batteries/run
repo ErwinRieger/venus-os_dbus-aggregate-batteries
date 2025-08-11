@@ -1,4 +1,4 @@
 #!/bin/bash
 exec 2>&1
-exec /data/etc/venus-os_dbus-aggregate-batteries/start-aggregate-batteries.sh
+exec /data/venus-os_dbus-aggregate-batteries/start-aggregate-batteries.sh
 
